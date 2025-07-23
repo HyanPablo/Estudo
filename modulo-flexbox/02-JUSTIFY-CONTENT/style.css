@@ -1,0 +1,40 @@
+.flex-start {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.container.space-around div,
+.container.space-evenly div,
+.container.space-between div {
+  margin: 0;
+}
+
+.flex-around {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.flex-evenly {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}

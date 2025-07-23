@@ -1,0 +1,16 @@
+html{
+  background-color: #ccc;
+  font-size: 32px;
+}
+
+body{
+  background-color: blueviolet;
+  width: 50%                           
+}
+.pai{
+  background-color: #ea80fc;
+}
+
+.filha{
+  background-color: #1de9b6;
+}
